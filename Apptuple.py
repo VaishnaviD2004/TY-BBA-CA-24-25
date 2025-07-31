@@ -1,0 +1,6 @@
+D=("Ram","Sita","nisha","Ravi")
+print(D)
+y=list(D)
+y.append("nishant")
+D= tuple(y)
+print(D)
